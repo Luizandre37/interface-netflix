@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="menu_mensagem" />
+    <string name="menu_volume" />
+    <string name="menu_avaliacoes" />
+    <string name="menu_epsodio" />
+    <string name="seleçao_epsodio" />
+    <string name="titulo_oficial" />
+    <string name="hora_final" />
+    <string name="minutos_inicial" />
+    <string name="epsodio_" />
+    <string name="house_" />
+    <string name="images_" />
+    <string name="s1_s2" />
+    <string name="todo_imagem" />
+    <string name="play_video" />
+    <string name="seebar_" />
+    <string name="final_" />
+    <string name="text_" />
+    <string name="minutos_" />
+    <string name="iniicio_" />
+    <string name="todo_" />
+    <string name="e_" />
+</resources>
